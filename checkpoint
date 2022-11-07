@@ -1,0 +1,2 @@
+model_checkpoint_path: "licenceplate_character_classification.npy"
+all_model_checkpoint_paths: "licenceplate_character_classification.npy"
